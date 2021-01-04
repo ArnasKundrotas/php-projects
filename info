@@ -1,0 +1,33 @@
+/* XAMPP stack -> Apache - Mariadb - PHP - Perl
+    - Apache server
+    - PHP
+    - MySQL
+    - phpMyAdmin
+*/
+
+/* Sections
+    - Explain what is PHP
+    - Why you should learn it
+    - Setup
+    - Hello World
+    - Comments
+    - Variables & Datat Types
+    - Number / String Functions
+    - Arrays, array Functions
+    - Conditions (if-else, elseif, switch)
+    - Loops
+    - Functions
+    - Including Files
+    - Working with file system
+    - OOP -> not full
+    - CURL
+    - Product CRUD App (COPY, READ, UPDATE, DELETE) - bad, better, good  code
+        - superglobals ($_GET, $_POST, $_FILES)
+        - form validation
+        - img upload
+        - file system
+        - MySQL
+    - Namespacesm Autoloading & Composer
+    - Custom Router (MVC Framework)
+    - Sesions, Cookies
+*/
